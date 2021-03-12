@@ -2,8 +2,13 @@ Jadon Geswindt
 
 This is a Life/Personal/Photography website
 
-URL - https://benzito1590.github.io/JD/
+URL - https://benzito1590.github.io/JD1/
 
+Change Website
+* Remove Friends Page
+ -Add to My Photo & Friends Page
+* New Logo Pic
+ 
 New Photos
 * Me
  -My Photos
