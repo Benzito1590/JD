@@ -4,21 +4,21 @@ This is a Life/Personal/Photography website
 
 URL - https://benzito1590.github.io/JD/
 
-##New Website
+## New Website
 - Make a  new Home Page, Me Page and add Gallery as Family Album and Carry-Ann Page.
 - Change Profile image at 
 * Carry-Ann, Friends, Jacobs, Kroukamps, Wedding & Videos
 
-##Keep
+## Keep
 - Move Friends, Carry-Ann(New Page) to Family Page.
 - Kroukamps, Carry-Ann and Jacobs on the top and change Family to Family Albums(* Links)
 
-###New Photos
+### New Photos
 * Family
    -* Jacobs
    -* Kroukamps
 
-###Code I use
+### Code I use
 - HTML
 - CSS
 - JS
